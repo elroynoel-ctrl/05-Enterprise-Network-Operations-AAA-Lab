@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+
+# Original Packet Tracer files may expose lab credentials.
+packet-tracer/*.pkt
